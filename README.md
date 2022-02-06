@@ -1,6 +1,8 @@
 # JSUnityTest
 ReactのTypeScript(JavaScript)コード から UnityのC#スクリプトのメソッド を呼び出す方法のテスト
 
+<img src="https://user-images.githubusercontent.com/39244112/152668100-83fbfd39-c377-4ac2-acbc-b77ddfba5363.png" width=640px>
+
 ## 内容
 - ページを開くとUnityアプリ(WebGL)が起動する
 - UpdateでCubeが常時回転している(正常動作またはフリーズの確認のため)
